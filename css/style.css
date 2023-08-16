@@ -26,7 +26,7 @@ body{
 }
 .main-nav-container
 {
-    box-shadow: 10px 10px 30px 1px grey;
+    /* box-shadow: 10px 10px 30px 1px grey; */
     height: 90px;
     display: flex;
     
@@ -88,4 +88,26 @@ body{
     padding-top: 25px;
     padding-left: 10px;
     font-weight: 800;
+}
+.navbar
+{
+   /* background-color: white; */
+   /* box-shadow: 0 10px 30px 1px grey; */
+   padding-left: 100px;
+   height: 30px;
+   background-color:azure;
+
+
+}
+.nav-links
+{
+    text-decoration: none;
+    color: grey;
+    padding-left: 25px;
+    font-size: 18px;
+}
+.home-img
+{
+    height: 440px;
+    width: 1520px;
 }
