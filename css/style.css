@@ -1,0 +1,91 @@
+body{
+    margin: 0;
+    padding-top: 0;
+    background-color:azure;
+}
+.header-container
+{
+    display: flex;
+    background-color:  rgb(212, 66, 76);
+    color: white;
+    height: 30px;
+  
+   
+}
+  .header-txt-1
+{
+   margin-left: 30px;
+   margin-top: 5px;
+   font-weight:100;
+}  
+.header-txt-2
+{
+    margin-left: 435px;
+    margin-top: 5px;
+
+}
+.main-nav-container
+{
+    box-shadow: 10px 10px 30px 1px grey;
+    height: 90px;
+    display: flex;
+    
+}
+.mamaearth-logo
+{
+    height: 30px;
+    margin-left: 50px;
+    padding-top: 20px;
+}
+.search-bar
+{
+    border: 2px solid grey;
+    height: 30px;
+    width: 491px;
+    margin-top: 20px;
+    margin-left: 10px;
+}
+.magnify
+{
+    margin-left: 20px;
+    margin-top: 10px;
+}
+.span
+{
+    display: inline-block;
+    margin-left: 10px;
+    color: grey;
+   
+}
+
+.search-box
+{
+    display: flex;
+    border: 2px solid 	 #66b3ff;
+    width: 98px;
+    height: 30px;
+    margin-top: 20px;
+    background-color:	 #66b3ff;
+    border-radius: 0 5px 5px 0;
+    text-align: center;
+  
+}
+.Search
+{
+    padding-top: 5px;
+    padding-left: 5px;
+    padding-right: 5px;
+    font-weight: bold;
+}
+.green-logo
+{
+    height: 60px;
+    margin-left: 115px;
+    margin-top: 10px;
+}
+.nav-icons
+{
+    padding-top: 25px;
+    padding-left: 10px;
+    font-weight: 800;
+}
